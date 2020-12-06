@@ -1,0 +1,8 @@
+This directory contains animation work. Included are:
+- Cropped 384x384 sprite GIFs (still with background but with only a single animation loop)
+- Spritesheet (Raw) created by running colorcorrectandspritify.py
+- [Optional] Spritesheet (Compressed) created by manually correcting extra background spots
+
+List
+Animation		Threshold (RGB)		Date Spritesheet Created
+chiave-attack		128; Green		2020 12 05
