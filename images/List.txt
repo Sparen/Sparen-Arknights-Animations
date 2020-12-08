@@ -6,3 +6,4 @@ This directory contains animation work. Included are:
 List
 Animation		Threshold (RGB)		Date Spritesheet Created
 chiave-front-attack	128; Green		2020 12 05
+chiave-front-idle	128; Green		2020 12 07
