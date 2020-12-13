@@ -18,4 +18,5 @@ Part 2 - GIF Processing
 Part 3 - GIF to PNG Spritesheet
 - I wrote a script to do this. It takes a GIF (with a background color) and a channel corresponding to the background color ([0 1 2] corresponding to [Red Green Blue]). There's also a thresholding parameter. Raise it to remove background artifacts.
 - Note that the higher the threshold, the more likely it is that false positives will be corrected. Be careful!
-  python3 colorcorrectandspritify.py output-2.gif output-f.png 1 128
+  python3 colorcorrectandspritify.py output-2.gif output-f.png 1 128 IM
+- As of December 13, 2020, the original mode (retroactively named B2N) is deprecated due to the damage it causes to the edges around boundary pixels (incorrect alpha/color damage to first layer of pixels within the black edge, and has been replaced by IM mode.
