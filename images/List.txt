@@ -7,7 +7,7 @@ List
 Animation			Thresh.	RGB	Mode	Date Spritesheet Created/Last Modified
 castle3-front-idle		48	Green	B2N	2020 12 12
 lancet2-front-idle		48	Green	B2N	2020 12 12
-ptilopsis-front-idle		128	Green	B2N	2020 12 12
 suzuran-front-spell3-loop	128	Red	IM	2020 12 13
 chiave-front-idle		128	Green	IM	2020 12 13
 chiave-front-attack		128	Green	IM	2020 12 13
+ptilopsis-front-idle		128	Green	IM	2020 12 13
