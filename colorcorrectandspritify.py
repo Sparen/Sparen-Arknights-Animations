@@ -96,7 +96,8 @@ def process_image():
 	# Determine spritesheet size
 	# ssdims specifies the max number of sprites per row/column
 	numsprites = inimg.n_frames
-	thresholdarr = [0, 1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225, 256] # If there are more than 256 frames, we've got a problem XD
+	# If there are more than 256 frames, we've got a problem XD (or so I thought until I saw how many frames Sora's idle animation had...)
+	thresholdarr = [0, 1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225, 256, 289, 324, 361, 400, 441, 484, 529, 576, 625, 676, 729, 784, 841, 900]
 	ssdims = 16 # Force a max of 16x16
 	for i in range(len(thresholdarr)):
 		if numsprites < thresholdarr[i]:

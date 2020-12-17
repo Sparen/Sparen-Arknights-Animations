@@ -11,3 +11,4 @@ suzuran-front-spell3-loop	128	Red	IM	2020 12 13
 chiave-front-idle		128	Green	IM	2020 12 13
 chiave-front-attack		128	Green	IM	2020 12 13
 ptilopsis-front-idle		128	Green	IM	2020 12 13
+sora-front-idle			112	Blue	IM	2020 12 17
