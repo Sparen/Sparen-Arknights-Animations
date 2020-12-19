@@ -4,12 +4,13 @@ This directory contains animation work. Included are:
 - [Optional] Spritesheet (Compressed) created by manually correcting extra background spots
 
 List
-Animation			Thresh.	RGB	Mode	Date Spritesheet Created/Last Modified
-castle3-front-idle		48	Green	B2N	2020 12 12
-lancet2-front-idle		48	Green	B2N	2020 12 12
-suzuran-front-spell3-loop	128	Red	IM	2020 12 13
-chiave-front-idle		128	Green	IM	2020 12 13
-chiave-front-attack		128	Green	IM	2020 12 13
-ptilopsis-front-idle		128	Green	IM	2020 12 13
-sora-front-idle			112	Blue	IM	2020 12 17
-warfarin-front-attack		144	Green	IM	2020 12 19
+Animation			# Sprites	Thresh.	RGB	Mode	Date Spritesheet Created/Last Modified
+castle3-front-idle		18		48	Green	B2N	2020 12 12
+lancet2-front-idle		15		48	Green	B2N	2020 12 12
+suzuran-front-spell3-loop	68		128	Red	IM	2020 12 13
+chiave-front-idle		240		128	Green	IM	2020 12 13
+chiave-front-attack		77		128	Green	IM	2020 12 13
+ptilopsis-front-idle		120		128	Green	IM	2020 12 13
+sora-front-idle			637		112	Blue	IM	2020 12 17
+warfarin-front-attack		70		144	Green	IM	2020 12 19
+broca-front-attack		61		176	Green	IM	2020 12 19
