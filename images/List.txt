@@ -12,3 +12,4 @@ chiave-front-idle		128	Green	IM	2020 12 13
 chiave-front-attack		128	Green	IM	2020 12 13
 ptilopsis-front-idle		128	Green	IM	2020 12 13
 sora-front-idle			112	Blue	IM	2020 12 17
+warfarin-front-attack		144	Green	IM	2020 12 19
