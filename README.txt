@@ -13,6 +13,7 @@ Part 2 - GIF Processing
    Example: gifsicle Unknown.gif "#47-123" -o output-1.gif
 3. Crop the physical gif. Image is 712x512; can use LTRB of 164 112 548 496 to isolate the sprite (384x384)
    Note: 256x256 isn't large enough to contain animations, which is why we go for 384x384
+   (Side Note: Except when it's not, like with Skadi's swing :/)
    gifsicle --crop 164,112+384x384 output-1.gif -o output-2.gif
 
 Part 3 - GIF to PNG Spritesheet

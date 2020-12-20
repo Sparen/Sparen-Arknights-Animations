@@ -53,11 +53,11 @@ def is_within_threshold(pixeltuple):
 def neighbor_matches_mask(x, y, matrix):
 	closestdist = 10000 # Distance to closest neighbor matching the mask. Using an arbitrary large number to start
 	for dx in range(x - 2, x + 3):
-		if dx < 0 or dx > width:
+		if dx < 0 or dx >= width:
 			pass
 		else:
 			for dy in range(y - 2, y + 3):
-				if dy < 0 or dy > height:
+				if dy < 0 or dy >= height:
 					pass
 				else:
 					if matrix[dx][dy] == 2:
