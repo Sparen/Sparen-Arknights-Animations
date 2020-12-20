@@ -14,3 +14,4 @@ ptilopsis-front-idle		120		128	Green	IM	2020 12 13
 sora-front-idle			637		112	Blue	IM	2020 12 17
 warfarin-front-attack		70		144	Green	IM	2020 12 19
 broca-front-attack		61		176	Green	IM	2020 12 19
+grani-front-idle		60		160	Green	IM	2020 12 19
