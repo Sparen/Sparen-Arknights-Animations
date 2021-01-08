@@ -17,3 +17,4 @@ broca-front-attack		61		176	Green	IM	2020 12 19
 grani-front-idle		60		160	Green	IM	2020 12 19
 skadi-front-attack		90		144	Green	IM	2020 12 20
 beeswax-front-idle		120		144	Green	IM	2020 12 20
+ceobe-front-attack		96		176	Blue	IM	2021 01 07
