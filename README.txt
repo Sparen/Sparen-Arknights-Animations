@@ -4,6 +4,7 @@ Part 1 - Obtaining Animations
 3. Hit record and record the duration of the animation (two loops is best)
 4. Hit output after waiting a bit. Note that the output window doesn't refresh, so close it and reopen to see if it's done processing
 5. Download GIF
+** Do not continuously record multiple sets or frames will begin to drop
 
 Part 2 - GIF Processing
 1. Determine the start and end frames of the animation
