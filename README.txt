@@ -9,7 +9,7 @@ Part 1 - Obtaining Animations
 Part 2 - GIF Processing
 1. Determine the start and end frames of the animation
 2. Use gifsicle (https://www.lcdf.org/gifsicle/, install w/ Homebrew) to crop to the specified frames
-   Note: End is inclusive, so #0-10 will produce 11 frames.
+   Note: End is inclusive, so #0-10 will produce 11 frames. Also keep in mind that gifsicle is zero indexed (important for animations that do not loop)
    Format: gifsicle input.gif "#start-end" -o output.gif
    Example: gifsicle Unknown.gif "#47-123" -o output-1.gif
 3. Crop the physical gif. Image is 712x512; can use LTRB of 164 112 548 496 to isolate the sprite (384x384)

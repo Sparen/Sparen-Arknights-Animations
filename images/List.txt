@@ -20,3 +20,6 @@ beeswax-front-idle		120		144	Green	IM	2020 12 20
 ceobe-front-attack		96		176	Blue	IM	2021 01 07
 ceobe-front-idle		192		176	Blue	IM	2021 01 09
 ceobe-front-skill1		96		176	Blue	IM	2021 01 09
+ceobe-front-skill2-begin	20		176	Blue	IM	2021 01 17
+ceobe-front-skill2-end		20		176	Blue	IM	2021 01 17
+ceobe-front-skill2-loop		38		176	Blue	IM	2021 01 17
