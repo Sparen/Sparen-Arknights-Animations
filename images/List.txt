@@ -24,3 +24,8 @@ ceobe-front-skill2-begin	20		176	Blue	IM	2021 01 17
 ceobe-front-skill2-end		20		176	Blue	IM	2021 01 17
 ceobe-front-skill2-loop		38		176	Blue	IM	2021 01 17
 thrmex-front-idle		16		144	Green	IM	2021 01 19
+ceobe-front-skill3 *1		96		176	Blue	IM	2021 01 20
+broca-front-skill-loop		75		176	Green	IM	2021 01 20
+
+Notes:
+*1 - Speak is long enough that it gets cut off for multiple frames
