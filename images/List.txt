@@ -27,6 +27,8 @@ thrmex-front-idle		16		144	Green	IM	2021 01 19
 ceobe-front-skill3 *1		96		176	Blue	IM	2021 01 20
 broca-front-skill-loop		75		176	Green	IM	2021 01 20
 noircorne-front-idle		62		96	Red	IM	2021 01 26
+durin-front-attack		89		128	Red	IM	2021 02 01
+durin-front-idle		120		128	Red	IM	2021 02 01
 
 Notes:
-*1 - Speak is long enough that it gets cut off for multiple frames
+*1 - Spear is long enough that it gets cut off for multiple frames
