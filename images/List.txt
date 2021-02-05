@@ -29,6 +29,8 @@ broca-front-skill-loop		75		176	Green	IM	2021 01 20
 noircorne-front-idle		62		96	Red	IM	2021 01 26
 durin-front-attack		89		128	Red	IM	2021 02 01
 durin-front-idle		120		128	Red	IM	2021 02 01
+cardigan-front-attack		60		144	Green	IM	2021 02 05
+cardigan-front-idle		120		144	Green	IM	2021 02 05
 
 Notes:
 *1 - Spear is long enough that it gets cut off for multiple frames
