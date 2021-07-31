@@ -33,6 +33,8 @@ cardigan-front-attack		60		144	Green	IM	2021 02 05
 cardigan-front-idle		120		144	Green	IM	2021 02 05
 melantha-front-idle		120		160	Green 	IM	2021 02 07
 melantha-front-attack		30		160	Green 	IM	2021 02 12
+broca-dorm-interact		123		176	Green	IM	2021 03 20
+aosta-front-attack		140		160	Green	IM	2021 07 31
 
 Notes:
 *1 - Spear is long enough that it gets cut off for multiple frames
